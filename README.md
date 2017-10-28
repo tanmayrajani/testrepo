@@ -1,3 +1,5 @@
 # testrepo
 
 > WIP
+
+LICENSE: MIT
