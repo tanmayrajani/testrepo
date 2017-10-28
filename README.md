@@ -2,4 +2,5 @@
 
 > WIP
 
-LICENSE: MIT
+> License: 
+MIT
