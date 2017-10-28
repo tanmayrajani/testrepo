@@ -1,6 +1,6 @@
 # testrepo
 
-> WIP
+> Work in progress
 
 > License: 
 MIT
