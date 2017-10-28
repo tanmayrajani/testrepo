@@ -1,3 +1,6 @@
 # testrepo
 
 > WIP
+
+> License: 
+MIT
